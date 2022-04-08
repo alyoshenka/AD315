@@ -7,8 +7,23 @@ is this actually called something different?
 
 ## Symbols
 
+∈
+: element of
+
+∉ 
+: not element of
+
 ∃ 
 : there exists
+
+⊆
+: subset of
+
+⊄ 
+: not subset
+
+⊂
+: proper subset (contains but is not equal)
 
 ## Examples
 
